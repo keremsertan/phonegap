@@ -28,7 +28,7 @@
     <preference name="AutoHideSplashScreen" value="false" />
     <preference name="StatusBarOverlaysWebView" value="false" />
     <preference name="keyboardDisplayRequiresUserAction" value="false" />
-    <preference name="Orientation" value="landscape" />
+    <preference name="Orientation" value="portrait" />
 
     <gap:splash src="res/screen/ios/screen-iphone-portrait.png" gap:platform="ios" width="320" height="480" />
     <gap:splash src="res/screen/ios/screen-iphone-portrait-2x.png" gap:platform="ios" width="640" height="960" />
