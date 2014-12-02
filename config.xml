@@ -25,10 +25,10 @@
     <preference name="fullscreen"       value="false" />
     <preference name="webviewbounce"    value="false" />
     <gap:plugin name="com.phonegap.plugin.statusbar" version="1.1.0" />
+    <gap:plugin name= "org.apache.cordova.splashscreen" />
     <preference name="SplashScreen" value="splash" />
-    <preference name="SplashScreenDelay" value="5000" />
+    <preference name="SplashScreenDelay" value="10000" />
     <preference name="AutoHideSplashScreen" value="false" />
-
 
     <icon src="icon.png" />
     <icon src="res/icon/android/icon-36-ldpi.png"   gap:platform="android"    gap:qualifier="ldpi" />
