@@ -29,7 +29,7 @@
     <gap:plugin name= "org.apache.cordova.splashscreen" />
     <preference name="SplashScreenDelay" value="5000" />
     <preference name="FadeSplashScreen" value="true" />
-    <preference name="fade-splash-screen-duration" value="5" />
+    <preference name="fade-splash-screen-duration" value="7" />
 
     <icon src="icon.png" />
     <icon src="res/icon/android/icon-36-ldpi.png"   gap:platform="android"    gap:qualifier="ldpi" />
